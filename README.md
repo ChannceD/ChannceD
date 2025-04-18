@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ChannceD/osTicket-Lab-Setup-)
-  - [osTicket: Post-Installation Configuration](https://github.com/ChannceD/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/ChannceD/Post-osTicket)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChannceD/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jChannceD/configure-ad)
