@@ -11,7 +11,7 @@ Currently studying Information Technology and building real-world skills through
 <h2>🌐 Information Technology Projects:</h2>
 
 ### 🧾 osTicket (Help Desk Ticketing System)
-- [osTicket: Prerequisites and Installation](https://github.com/ChannceD/osTicket-Lab-Setup)  
+- [osTicket: Prerequisites and Installation](https://github.com/ChannceD/osTicket-Lab-Setup-)  
   Installed a web-based help desk system on a local VM using PHP, MySQL, and IIS.
   
 - [osTicket: Post-Installation Configuration](https://github.com/ChannceD/Post-osTicket)  
