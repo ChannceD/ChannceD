@@ -22,7 +22,7 @@ Currently studying Information Technology and building real-world skills through
 
 ---
 
-### ☁️ Microsoft Azure
+### ☁️ Active Directory with Microsoft Azure
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ChannceD/Deploying-AD)  
   Set up and promoted a Domain Controller in Azure, then joined a Windows client to the domain.
 
