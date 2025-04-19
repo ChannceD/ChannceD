@@ -1,5 +1,13 @@
 <h1>Hi, my name is Channce — an <a href="https://linkedin.com/in/channce">Aspiring IT Professional</a>☺</h1>
 
+### 👋 About Me
+
+I'm Channce, an aspiring IT professional with adaptability and a strong passion for technology and hands-on problem-solving.  
+Currently studying Information Technology and building real-world skills through self-paced labs and certification prep.
+
+💼 I’m actively seeking opportunities in Information Technology 
+
+---
 <h2>🌐 Information Technology Projects:</h2>
 
 ### 🧾 osTicket (Help Desk Ticketing System)
@@ -26,6 +34,14 @@
 
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ChannceD/Azure-Lab-Networking)  
   Configured NSGs and analyzed RDP, SSH, DNS, and DHCP traffic using Wireshark and PowerShell.
+
+---
+
+### 🛠️ Skills & Certifications
+
+- **Certifications**: CompTIA A+  
+- **Technologies**: Active Directory, Group Policy, PowerShell, Azure VMs, RDP, DNS, DHCP, Wireshark  
+
 
 <h2>🤝Connect with me:</h2>
 
