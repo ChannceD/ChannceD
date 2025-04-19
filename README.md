@@ -1,4 +1,4 @@
-<h1>Hi, My name is Channce, an <a href="https://linkedin.com/in/channce">IT Professional</a>☺</h1>
+<h1>Hi, My name is Channce, an <a href="https://linkedin.com/in/channce">Aspiring IT Professional</a>☺</h1>
 
 <h2>🌐 Information Technology Projects:</h2>
 
