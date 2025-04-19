@@ -1,6 +1,6 @@
 <h1>Hi, my name is Channce — an <a href="https://linkedin.com/in/channce">Aspiring IT Professional</a>☺</h1>
 
-### 👋 About Me
+### About Me
 
 I'm Channce, an aspiring IT professional with adaptability and a strong passion for technology and hands-on problem-solving.  
 Currently studying Information Technology and building real-world skills through self-paced labs and certification prep.
@@ -42,9 +42,10 @@ Currently studying Information Technology and building real-world skills through
 - **Certifications**: CompTIA A+  
 - **Technologies**: Active Directory, Group Policy, PowerShell, Azure VMs, RDP, DNS, DHCP, Wireshark  
 
+---
 
-<h2>🤝Connect with me:</h2>
+### 🤝 Connect With Me
 
-[<img align="left" alt="channce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I'm always open to networking, mentorship, or new opportunities in tech!
 
-[linkedin]: https://linkedin.com/in/channce
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/channce)
