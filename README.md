@@ -17,7 +17,7 @@ Currently studying Information Technology and building real-world skills through
 - [osTicket: Post-Installation Configuration](https://github.com/ChannceD/Post-osTicket)  
   Configured departments, email piping, agents, and system settings for operational support.
 
-- [osTicket: Ticket Lifecycle Examples](https://github.com/ChannceD/osTicket-Lifecycle)  
+- [osTicket: Ticket Lifecycle Examples](https://github.com/ChannceD/osTicket-Lifecycle-)  
   Demonstrated real-world ticket handling from creation to resolution with proper documentation.
 
 ---
