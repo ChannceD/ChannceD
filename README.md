@@ -26,7 +26,7 @@ Currently studying Information Technology and building real-world skills through
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ChannceD/Deploying-AD)  
   Set up and promoted a Domain Controller in Azure, then joined a Windows client to the domain.
 
-- [Creating Users With PowerShell](https://github.com/ChannceD/PowerShell-Users)  
+- [Creating Users With PowerShell](https://github.com/ChannceD/PowerShell-Users-)  
   Automated the creation of 1,000 Active Directory users using a custom PowerShell script.
 
 - [Managing Accounts with Group Policy](https://github.com/ChannceD/Group-Policy)  
