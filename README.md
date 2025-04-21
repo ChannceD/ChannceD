@@ -37,7 +37,7 @@ Currently studying Information Technology and building real-world skills through
 
 ---
 
-### 🛠️ Skills & Certifications
+### 🛠️ Technologies & Certifications
 
 - **Certifications**: CompTIA A+  
 - **Technologies**: Active Directory, Group Policy, PowerShell, Azure VMs, RDP, DNS, DHCP, Wireshark  
