@@ -1,4 +1,4 @@
-<h1>Hi, my name is Channce — an <a href="https://linkedin.com/in/channce">Aspiring IT Professional</a>☺</h1>
+<h1>Hi, my name is Channce — an <a href="https://linkedin.com/in/channce">Information Technology | Systems, Networking, and Cloud Fundamentals</a>☺</h1>
 
 ### About Me
 
