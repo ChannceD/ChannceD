@@ -2,8 +2,7 @@
 
 ### About Me
 
-I'm Channce, an aspiring IT professional with adaptability and a strong passion for technology and hands-on problem-solving.  
-Currently studying Information Technology and building real-world skills through self-paced labs and certification prep.
+I’m Channce, an early-career IT professional with hands-on experience in systems administration, networking fundamentals, and cloud-based environments. I build real-world skills through practical labs, automation, and infrastructure-focused projects.
 
 💼 I’m actively seeking opportunities in Information Technology 
 
