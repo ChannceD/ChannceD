@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m Channce, an early-career IT professional with hands-on experience in systems administration, networking fundamentals, and cloud-based environments. I build real-world skills through practical labs, automation, and infrastructure-focused projects.
+I’m Channce, an early-career IT professional with hands-on experience in systems administration, networking fundamentals, and cloud-based environments. I develop real-world skills through practical labs, automation, and infrastructure-focused projects.
 
 💼 I’m actively seeking opportunities in Information Technology 
 
@@ -14,7 +14,7 @@ I’m Channce, an early-career IT professional with hands-on experience in syste
   Implemented and configured an osTicket help desk system to simulate real-world IT support workflows, including ticket intake, triage, assignment, and resolution
   
 - [osTicket: Post-Installation Configuration](https://github.com/ChannceD/Post-osTicket)  
-  Deployed and managed an Active Directory environment in Azure to simulate enterprise identity management, user provisioning, and policy enforcement.
+  Configured departments, roles, agents, email piping, and system settings to support structured ticket intake and resolution workflows.
 
 - [osTicket: Ticket Lifecycle Examples](https://github.com/ChannceD/osTicket-Lifecycle-)  
   Demonstrated real-world ticket handling from creation to resolution with proper documentation.
