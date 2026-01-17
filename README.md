@@ -11,10 +11,10 @@ I’m Channce, an early-career IT professional with hands-on experience in syste
 
 ### 🧾 osTicket (Help Desk Ticketing System)
 - [osTicket: Prerequisites and Installation](https://github.com/ChannceD/osTicket-Lab-Setup-)  
-  Installed a web-based help desk system on a local VM using PHP, MySQL, and IIS.
+  Implemented and configured an osTicket help desk system to simulate real-world IT support workflows, including ticket intake, triage, assignment, and resolution
   
 - [osTicket: Post-Installation Configuration](https://github.com/ChannceD/Post-osTicket)  
-  Configured departments, email piping, agents, and system settings for operational support.
+  Deployed and managed an Active Directory environment in Azure to simulate enterprise identity management, user provisioning, and policy enforcement.
 
 - [osTicket: Ticket Lifecycle Examples](https://github.com/ChannceD/osTicket-Lifecycle-)  
   Demonstrated real-world ticket handling from creation to resolution with proper documentation.
